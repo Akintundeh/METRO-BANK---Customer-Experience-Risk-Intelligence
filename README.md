@@ -1,0 +1,2 @@
+# METRO-BANK---Customer-Experience-Risk-Intelligence
+TASK: Strategic Analyst reporting directly to the Chief Customer Officer and  the Chief Risk Officer. Your goal is twofold:  1. Customer Experience: Diagnose the root causes of complaints to improve service  quality and customer retention.  2. Risk Mitigation: Assess the severity and handling of fraud cases to protect the bank and  its customers. 
